@@ -1,6 +1,6 @@
 class CategoryNode
 {
-    private int name;
+    private String name;
     private double price;
     private int availableSeats;
 
